@@ -1,0 +1,11 @@
+html, body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.img2{
+    position: absolute;
+    right: 430px;
+    top: 10px;
+}

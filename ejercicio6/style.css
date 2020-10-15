@@ -1,0 +1,15 @@
+html, body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.img1{
+    position: relative;
+}
+
+.img2{
+    position: absolute;
+    right: 500px;
+    top: 145px;
+    width: 70px;
+}
