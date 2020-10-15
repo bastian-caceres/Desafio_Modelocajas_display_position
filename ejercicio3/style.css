@@ -1,0 +1,114 @@
+
+.bandera{
+    border: 1px solid black;
+    width:300px;
+    height:200px;
+    margin:20px;
+    position: relative;
+    display: inline-block;
+}
+
+.span1{
+    width: 300px;
+    height: 70px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.span2{
+    width: 300px;
+    height: 70px;
+    background-color: yellow;
+    position: absolute;
+    top: 70px;
+    left: 0px; 
+}
+.span3{
+    width: 300px;
+    height: 70px;
+    background-color: red;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.din1{
+    width: 80px;
+    height: 90px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.din2{
+    width: 200px;
+    height: 90px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.din3{
+    width: 80px;
+    height: 90px;
+    background-color: red;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.din4{
+    width: 200px;
+    height: 90px;
+    background-color: red;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+
+.ara1{
+    width: 80px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    left: 0px;
+}
+.ara2{
+    width: 220px;
+    height: 66.66px;
+    background-color: green;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.ara3{
+    width: 220px;
+    height: 66.66px;
+    background-color: white;
+    position: absolute;
+    top: 70px;
+    right: 0px;
+}
+.ara4{
+    width: 220px;
+    height: 66.66px;
+    background-color: black;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.jap{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    border-radius: 60px;
+}
+
+
